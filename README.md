@@ -2,7 +2,7 @@
 
 运行在 Windows 本机的漫画翻译工具。双击程序启动，在浏览器中上传漫画，使用你配置的视觉模型识别并翻译文字，清除原文、调整译文排版并导出 PNG。
 
-界面使用中文。主要由 HTML、CSS、JavaScript 和 C# 编写，使用 ChatGPT / Codex 辅助开发。
+界面使用中文。主要由 HTML、CSS、JavaScript 和 C# 编写，使用 ChatGPT / Codex 辅助开发。（这一段README全是gpt写的，我就写了个雏形，真是被ai现在的能力震惊到了）
 
 ## 功能
 
